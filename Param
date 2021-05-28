@@ -1,0 +1,5 @@
+⁹git remote add origin https://github.com/vandanaPar/vandanaPar.git
+
+git branch -M main
+
+git push -u originparam
